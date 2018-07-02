@@ -1,2 +1,0 @@
-#python
-when learn python
