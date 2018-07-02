@@ -1,1 +1,2 @@
-python
+#python
+when learn python
